@@ -23,10 +23,6 @@
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Deployment](#deployment)
-- [Usage](#usage)
-- [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
@@ -36,7 +32,7 @@ This is a simple website which can be used to generate passwords automatically a
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-To download the code click on the green colour button to the top right named as `<> Code` and download the zip file or clone the repository . [deployment](#deployment) for notes on how to deploy the project on a live system.
+To download the code click on the green colour button to the top right named as `<> Code` and download the zip file or clone the repository. [Deployment](#deployment) for notes on how to deploy the project on a live system.
 
 ## 🚀 Deployment <a name = "deployment"></a>
 
